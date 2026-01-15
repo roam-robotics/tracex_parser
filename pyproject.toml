@@ -18,6 +18,8 @@ parse-trx = "tracex_parser.file_parser:main"
 
 [tool.poetry.dependencies]
 python = "^3.8.1"
+matplotlib = "^3.5"
+numpy = "^1.21"
 
 [tool.poetry.dev-dependencies]
 sphinx_mdinclude = "^0.6"
